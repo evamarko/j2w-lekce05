@@ -11,7 +11,6 @@ public class Person {
   private String givenName;
   private String lastName;
   private LocalDate birthDate;
-
   private Gender gender;
 
   public Person() {
